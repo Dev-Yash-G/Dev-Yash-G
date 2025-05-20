@@ -19,11 +19,11 @@ Passionate about building impactful digital experiences, one line of code at a t
 
 | Project | Description |
 |--------|-------------|
-| [OhYs](https://ohys-rental.vercel.app/) | Luxury Rental Booking Platform (Live) |
-| [Personal AI](https://github.com/yourusername/personal-ai) | ChatGPT-inspired full-stack chatbot |
-| [UnBoundEd](https://github.com/yourusername/unbounded) | Online learning platform with offline support |
-| [StoryGrid](https://github.com/yourusername/storygrid) | Full-stack blog platform |
-| [SideKick](https://github.com/yourusername/sidekick) | Chrome extension with dictionary & notes |
+| [OhYs](https://30gsybdbah3dpwio.live.co.dev/) | Luxury Rental Booking Platform (Live) |
+| [Personal AI](https://v0-minimalist-chatbot-ui.vercel.app/) | ChatGPT-inspired full-stack chatbot |
+| [UnBoundEd](https://github.com/Yash-Ghule/UnBoundEd) | Online learning platform with offline support |
+| [StoryGrid](https://storygrid.vercel.app/) | Full-stack blog platform |
+| [SideKick](https://github.com/Yash-Ghule/SideKick) | Chrome extension with dictionary & notes |
 
 ---
 
