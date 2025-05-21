@@ -1,6 +1,6 @@
 # Hi, I'm Yash Ghule 👋
 
-🎓 Pre-final year student | 💻 Full Stack Web Developer | 🧠 Tech Explorer  
+🎓 Pre-final year student | 💻 Aspiring Full Stack Web Developer | 🧠 Tech Explorer  
 Passionate about building impactful digital experiences, one line of code at a time.
 
 ---
