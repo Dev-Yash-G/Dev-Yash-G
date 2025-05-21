@@ -8,7 +8,7 @@ Passionate about building impactful digital experiences, one line of code at a t
 ## 🧩 What I Do
 
 - 🧑‍💻 Build full-stack web applications 
-- ⚡ Design clean, responsive UIs with TailwindCSS & Framer Motion
+- ⚡ Design clean, responsive UIs with modern frameworks and libraries
 - 🤖 Experiment with AI tools and integrate LLMs (ChatGPT, Gemini, Groq)
 - 💡 Work on side projects that solve real-life problems
 - 🚀 Constantly learning new technologies — currently diving into **Node.js**, **Next.js** and **LangChain**
