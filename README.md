@@ -19,7 +19,7 @@ Passionate about building impactful digital experiences, one line of code at a t
 
 | Project | Description |
 |--------|-------------|
-| [OhYs](https://30gsybdbah3dpwio.live.co.dev/) | Luxury Rental Booking Platform (Live) |
+| [OhYs](https://30gsybdbah3dpwio.live.co.dev/) | Luxury Rental Booking Platform  |
 | [Personal AI](https://v0-minimalist-chatbot-ui.vercel.app/) | ChatGPT-inspired full-stack chatbot |
 | [UnBoundEd](https://github.com/Yash-Ghule/UnBoundEd) | Online learning platform with offline support |
 | [StoryGrid](https://storygrid.vercel.app/) | Full-stack blog platform |
