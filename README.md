@@ -33,6 +33,6 @@ Passionate about building impactful digital experiences, one line of code at a t
 ---
 
 ## 📫 Let's Connect
-- 📩 [YourEmail@example.com](mailto:yashghule24@gmail.com)
+- 📩 [yashghule24@gmail.com](mailto:yashghule24@gmail.com)
 - 🌐 Portfolio Website: Under development 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yash-ghule-8a35b5302/)
